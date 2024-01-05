@@ -8,6 +8,8 @@ body {
 }
 h2 {
   text-align: center;
+  color: #008080;
+  font-weight: bold;
 }
 
 .flashcards {
